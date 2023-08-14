@@ -1,0 +1,22 @@
+
+1 - Acordar 
+2 - Abrir os olhos
+3 - Abraçar minha esposa 
+4 - Dar bom dia a minha esposa
+5 - Levantar da cama
+6 - Escovar os dentes
+7 - Preparar o café da manhã
+8 - Ela vai para a faculdade hoje? sim
+    1 - Arrumar bolsa dela 
+    2 - Preparar lanche dela
+    3 - Carregar o computador dela
+    4 - entregar as chaves e o cartão a Ela
+    5 - Me despedir dela
+9 - Não
+    1 - Conversar com ela sobre as tarefas do dia
+    2 - Pegar o material dela
+10 - Começar a estudar
+
+
+
+
